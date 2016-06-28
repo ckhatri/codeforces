@@ -1,5 +1,5 @@
 # http://codeforces.com/problemset/problem/469/A
-# broken tests?
+
 import sys
 numLevels = int(input())
 levelsPPass = map(int, raw_input().split(" "))

@@ -1,3 +1,5 @@
+# http://codeforces.com/problemset/problem/686/A
+
 numInputs, numIcecream = map(int, raw_input().split(" "))
 numDistressed = 0
 for numInputs in xrange(0, numInputs):

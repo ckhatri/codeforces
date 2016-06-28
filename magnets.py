@@ -1,3 +1,5 @@
+# http://codeforces.com/problemset/problem/344/A
+
 numInputs = int(input())
 first = True
 matching = ""
